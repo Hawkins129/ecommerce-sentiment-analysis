@@ -1,10 +1,10 @@
-# 🛒 E-commerce Customer Review Sentiment Analysis
+ E-commerce Customer Review Sentiment Analysis
 
 This project applies text mining and sentiment analysis techniques to Amazon product reviews to understand customer satisfaction drivers and predict product success.
 
 ---
 
-## 📊 Dataset
+ Dataset
 
 - **Source**: [Kaggle - Amazon Product Reviews Dataset](https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset)
 - **File**: `amazon_reviews.csv`
@@ -13,14 +13,14 @@ This project applies text mining and sentiment analysis techniques to Amazon pro
 
 ---
 
-## 🎯 Project Objective
+ Project Objective
 
 **Key Question**  
 > How can e-commerce companies use sentiment analysis of product reviews to improve customer satisfaction and predict product performance?
 
 ---
 
-## 🛠️ Tools & Methods
+ Tools & Methods
 
 - **Language**: Python (Google Colab)
 - **Libraries**: pandas, matplotlib, seaborn, nltk, scikit-learn
@@ -35,7 +35,7 @@ This project applies text mining and sentiment analysis techniques to Amazon pro
 
 ---
 
-## 📈 Results Summary
+ Results Summary
 
 - **Model Accuracy**: ~83%
 - **Top Positive Keywords**: `durable`, `fast charging`, `good quality`
@@ -44,7 +44,7 @@ This project applies text mining and sentiment analysis techniques to Amazon pro
 
 ---
 
-## 📂 Project Structure
+ Project Structure
 ecommerce-sentiment-analysis/
 ├── amazon_reviews.csv # Dataset
 ├── sentiment_model.ipynb # Colab notebook (analysis code)
@@ -55,14 +55,14 @@ ecommerce-sentiment-analysis/
 
 ---
 
-## 🧠 Author
+Author
 
 - [Your Name]
 - BAN200 – Summer 2025, Group Project, Seneca College
 
 ---
 
-## 📬 Contact
+ Contact
 
 If you have questions or ideas, feel free to open an issue or connect via GitHub.
 
